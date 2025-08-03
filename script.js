@@ -1,5 +1,3 @@
-// script.js
-
 // Ensure the script runs only after the entire HTML document has loaded.
 document.addEventListener('DOMContentLoaded', function() {
 
